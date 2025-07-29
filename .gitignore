@@ -1,0 +1,37 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# VSCode and IDE config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+.cache/
+*.bak
+
+# Flask specific
+instance/
+*.pid
+
+# HTML/JS temporary dev files
+*.tmp
+
+# Git
+*.swp
+*.swo
